@@ -1,1 +1,4 @@
-# drumkit
+# Drum Kit
+
+## Technologies
+* JavaScript
