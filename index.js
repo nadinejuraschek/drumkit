@@ -11,3 +11,7 @@ for (let i=0; i < drumBtns; i++) {
     });
 
 };
+
+const footerYear = document.getElementById('currentYear');
+const currentYear = new Date().getFullYear();
+footerYear.innerHTML = currentYear;
